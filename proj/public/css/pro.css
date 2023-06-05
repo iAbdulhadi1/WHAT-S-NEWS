@@ -1,0 +1,14 @@
+table {
+    margin: 0 auto;
+    text-align: center;
+}
+
+thead {
+    background-color: #f2f2f2;
+}
+
+td,
+th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}

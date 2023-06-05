@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(0, 102, 255);
+    border: solid;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-control {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.btn-success {
+    background-color: green;
+    color: white;
+}
+
+.login {
+    width: 500px;
+    margin: 10px auto;
+}
+
+a{
+    color: white;
+}
+a:hover {
+    color: rgb(143, 255, 105);
+}
